@@ -1,0 +1,6 @@
+- live cell
+  - neighbours < 2, dead
+  - [2,3].neighbours, lives
+  - neighbours > 3, dies
+- dead cells
+  - neighbours == 3, comes alive
